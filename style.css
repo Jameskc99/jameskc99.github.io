@@ -13,6 +13,7 @@ hr {
   max-width: 65px;
   border-width: 3px;
   border-color: #F05F44; 
+  text-align: center;
 }
 
 .faded {
@@ -28,7 +29,7 @@ header.startup {
 
 header.startup hr {
   margin-top: 200px;
-  margin-bottom: 30px; 
+  margin-bottom: 40px; 
 }
 
 header.startup h1 {
@@ -40,6 +41,8 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
+  margin-left: 37%;
+  margin-right: 33%;
 }
 
 .btn-xl {
